@@ -6,10 +6,10 @@ I'm known for my collaborative, results-driven, and strategic leadership style. 
 
 ### Experience
 
-- Mobile Engineering Manager | May 2023 - Present
-- Enterprise Architect Principal/Enterprise Architect | Nov 2022 - May 2023
-- Senior Software Engineer Team Lead | May 2017 - Aug 2021
-- Mobile Software Engineer | Sep 2016 - May 2017
+- Mobile Engineering Manager
+- Enterprise Architect Principal/Enterprise Architect
+- Senior Software Engineer Team Lead
+- Mobile Software Engineer
 - ...
 
 #### Key Skills
